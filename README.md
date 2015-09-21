@@ -1,2 +1,2 @@
-# x5link..github.io
+# x5link.github.io
 X5link
